@@ -1,0 +1,121 @@
+label_raw,text,label_ocean,key
+Anxiety,Don't worry about things,N,1
+Friendliness,Don't make friends easily,E,1
+Imagination,Don't have a vivid imagination,O,1
+Trust,Don't trust others,A,1
+Self-efficacy,Don't complete tasks successfully,C,1
+Anger,Don't get angry easily,N,1
+Gregariousness,Hate large parties,E,1
+Artistic Interests,Don't believe in the importance of art,O,1
+Morality,Don't use others for your own ends,A,-1
+Orderliness,Don't like to tidy up,C,1
+Depression,Don't often feel blue,N,1
+Assertiveness,Don't take charge,E,1
+Emotionality,Don't experience your emotions intensely,O,1
+Altruism,Hate to help others,A,1
+Dutifulness,Don't keep your promises,C,1
+Self-consciousness,Don't find it difficult to approach others,N,1
+Activity Level,Are not always busy,E,1
+Adventurousness,Don't prefer variety to routine,O,1
+Cooperation,Hate a good fight,A,-1
+Achievement-striving,Don't work hard,C,1
+Immoderation,Don't go on binges,N,1
+Excitement-seeking,Hate excitement,E,1
+Intellect,Hate to read challenging material,O,1
+Modesty,Don't believe that you are better than others,A,-1
+Self-discipline,Are not always prepared,C,1
+Vulnerability,Don't panic easily,N,1
+Cheerfulness,Don't radiate joy,E,1
+Liberalism,Don't tend to vote for liberal political candidates,O,1
+Sympathy,Don't sympathize with the homeless,A,1
+Cautiousness,Don't jump into things without thinking,C,-1
+Anxiety,Don't fear for the worst,N,1
+Friendliness,Don't feel comfortable around other people,E,1
+Imagination,Don't enjoy wild flights of fancy,O,1
+Trust,Don't believe that others have good intentions,A,1
+Self-efficacy,Don't excel in what you do,C,1
+Anger,Don't get irritated easily,N,1
+Gregariousness,Don't talk to a lot of different people at parties,E,1
+Artistic Interests,Don't see beauty in things that others might not notice,O,1
+Morality,Don't cheat to get ahead,A,-1
+Orderliness,Don't often forget to put things back in their proper place,C,-1
+Depression,Like yourself,N,1
+Assertiveness,Don't try to lead others,E,1
+Emotionality,Don't feel others' emotions,O,1
+Altruism,Are not concerned about others,A,1
+Dutifulness,Don't tell the truth,C,1
+Self-consciousness,Are not afraid to draw attention to yourself,N,1
+Activity Level,Are not always on the go,E,1
+Adventurousness,Prefer not to stick with things that you know,O,-1
+Cooperation,Don't yell at people,A,-1
+Achievement-striving,Don't do more than what's expected of you,C,1
+Immoderation,Often overindulge,N,-1
+Excitement-seeking,Don't seek adventure,E,1
+Intellect,Don't avoid philosophical discussions,O,-1
+Modesty,Don't think highly of yourself,A,-1
+Self-discipline,Don't carry out your plans,C,1
+Vulnerability,Don't become overwhelmed by events,N,1
+Cheerfulness,Don't have a lot of fun,E,1
+Liberalism,Don't believe that there is no absolute right or wrong,O,1
+Sympathy,Don't feel sympathy for those who are worse off than yourself,A,1
+Cautiousness,Don't make rash decisions,C,-1
+Anxiety,Are not afraid of many things,N,1
+Friendliness,Don't avoid contacts with others,E,-1
+Imagination,Hate to daydream,O,1
+Trust,Don't trust what people say,A,1
+Self-efficacy,Don't handle tasks smoothly,C,1
+Anger,Don't lose your temper,N,1
+Gregariousness,Prefer not to be alone,E,-1
+Artistic Interests,Like poetry,O,-1
+Morality,Don't take advantage of others,A,-1
+Orderliness,Don't leave a mess in your room,C,-1
+Depression,Are not often down in the dumps,N,1
+Assertiveness,Don't take control of things,E,1
+Emotionality,Often notice your emotional reactions,O,-1
+Altruism,Are not indifferent to the feelings of others,A,-1
+Dutifulness,Don't break rules,C,-1
+Self-consciousness,Don't only feel comfortable with friends,N,1
+Activity Level,Don't do a lot in your spare time,E,1
+Adventurousness,Like changes,O,-1
+Cooperation,Don't insult people,A,-1
+Achievement-striving,Don't do just enough work to get by,C,-1
+Immoderation,Don't easily resist temptations,N,-1
+Excitement-seeking,Don't enjoy being reckless,E,1
+Intellect,Don't have difficulty understanding abstract ideas,O,-1
+Modesty,Don't have a high opinion of yourself,A,-1
+Self-discipline,Don't waste your time,C,-1
+Vulnerability,Don't feel that i'm unable to deal with things,N,1
+Cheerfulness,Hate life,E,1
+Liberalism,Don't tend to vote for conservative political candidates,O,-1
+Sympathy,Are interested in other people's problems,A,-1
+Cautiousness,Don't rush into things,C,-1
+Anxiety,Don't get stressed out easily,N,1
+Friendliness,Don't keep others at a distance,E,-1
+Imagination,Don't like to get lost in thought,O,1
+Trust,Don't distrust people,A,-1
+Self-efficacy,Don't know how to get things done,C,1
+Anger,Are easily annoyed,N,-1
+Gregariousness,Don't avoid crowds,E,-1
+Artistic Interests,Enjoy going to art museums,O,-1
+Morality,Don't obstruct others' plans,A,-1
+Orderliness,Don't leave your belongings around,C,-1
+Depression,Don't feel comfortable with yourself,N,-1
+Assertiveness,Don't wait for others to lead the way,E,-1
+Emotionality,Understand people who get emotional,O,-1
+Altruism,Don't take no time for others,A,-1
+Dutifulness,Don't break your promises,C,-1
+Self-consciousness,Are bothered by difficult social situations,N,-1
+Activity Level,Don't like to take it easy,E,-1
+Adventurousness,Are not attached to conventional ways,O,-1
+Cooperation,Don't get back at others,A,-1
+Achievement-striving,Don't put little time and effort into your work,C,-1
+Immoderation,Are not able to control your cravings,N,-1
+Excitement-seeking,Don't act wild and crazy,E,1
+Intellect,Are interested in theoretical discussions,O,-1
+Modesty,Don't boast about your virtues,A,-1
+Self-discipline,Don't have difficulty starting tasks,C,-1
+Vulnerability,Don't remain calm under pressure,N,-1
+Cheerfulness,Don't look at the bright side of life,E,1
+Liberalism,Don't believe that we should be tough on crime,O,-1
+Sympathy,Think about the needy,A,-1
+Cautiousness,Don't act without thinking,C,-1
